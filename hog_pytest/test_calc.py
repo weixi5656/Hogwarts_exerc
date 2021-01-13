@@ -1,5 +1,5 @@
 import pytest
-from pytestcode.calculator import Calulator
+from hog_pytest.pytestcode.calculator import Calulator
 
 
 class TestCalc:
